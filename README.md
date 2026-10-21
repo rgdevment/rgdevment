@@ -21,7 +21,7 @@ Aplicaciones de escritorio gratis y de código abierto para Windows y macOS. Sin
       <sub>Choose which browser and profile opens every link, by site or by the app it came from.</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://rgdevment.com/copypaste/"><img src="https://rgdevment.com/icons/copypaste.png" width="72" height="72" alt="CopyPaste"/></a><br/>
+      <a href="https://rgdevment.com/copypaste/"><img src="https://rgdevment.com/icons/copanda.png" width="72" height="72" alt="CopyPaste"/></a><br/>
       <a href="https://github.com/rgdevment/CopyPaste"><b>CopyPaste</b></a><br/>
       <sub>A searchable local clipboard history that ignores your password manager.</sub>
     </td>
