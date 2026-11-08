@@ -1,5 +1,13 @@
-<h3 align="center">Software out of conviction, not subscription.</h3>
-<p align="center"><em>Software por convicción, no por suscripción.</em></p>
+<p align="center">
+  <a href="https://rgdevment.dev/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://rgdevment.dev/rgdevment-white.svg"/>
+      <img src="https://rgdevment.dev/rgdevment.svg" width="260" alt="rgdevment"/>
+    </picture>
+  </a>
+</p>
+
+<h3 align="center">Software out of conviction, not subscription.<br/>Software por convicción, no por suscripción.</h3>
 
 <p align="center">
 Free, open source desktop apps for Windows and macOS. No account, no telemetry, no server: what they keep stays on your disk.<br/>
